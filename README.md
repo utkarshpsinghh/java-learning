@@ -10,6 +10,10 @@ I'm learning Java from scratch and will continue with DSA, projects, and more.
 
 - ✅ Day 1 - Introduction
 - ✅ Day 2 - Variables, Data Types & Operators
+- ✅ Day 3 - Scanner & if else statements
+- ✅ Day 4 - Random numbers in java
+- ✅ Day 5 - Math class in Java
+
 
 ## YouTube Channel: https://www.youtube.com/@UtkarshCoding
 
